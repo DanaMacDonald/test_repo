@@ -1,13 +1,9 @@
 ---
-title: "Test File"
+title: "test_file"
 author: "Dana MacDonald"
 date: "2025-01-20"
 output: html_document
 ---
-
-```{r}
-library(tidyverse)
-```
 
 Hello world, do you recognize this number?
 ```{r}
